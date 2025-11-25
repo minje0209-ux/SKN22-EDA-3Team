@@ -1,0 +1,78 @@
+# ===================================
+# OS / 에디터 환경
+# ===================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+
+# ===================================
+# Python
+# ===================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+venv/
+.env/
+.venv/
+
+# Package managers
+pip-wheel-metadata/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# ===================================
+# Project-specific
+# ===================================
+
+# ENV / Keys
+.env
+.env.*
+secrets.json
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+__cache__/
+.cache_dir/
+.temp/
+tmp/
+
+# test
+test/
+
+# Streamlit generated files
+**/.streamlit/secrets.toml
+.streamlit/
+
+# ===================================
+# Outputs / Reports
+# ===================================
+results/
+outputs/
+export/
+*.html
+*.svg
+
+# ===================================
+# Misc
+# ===================================
+*.bak
+*.swp
+*.tmp
