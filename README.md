@@ -120,8 +120,8 @@ Features: averageScore, episodes
 - 시각화 결과:
     - 점수/인기도 중 하나만 높은 작품과 확실히 구분됨.
 
-![](images/sh3.png)
-![](images/sh5.png)
+![](https://discordapp.com/channels/686581495514923039/767053478845349919/1443857093768511548)
+![](https://discordapp.com/channels/686581495514923039/767053478845349919/1443858279749914634)
 
 ### 수치적 데이터 Overview (세환)
 - 인기도(Popularity) vs. 평점(Score)
